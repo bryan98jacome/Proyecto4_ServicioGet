@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278871927373",
+    "firebase_url" : "https://inventmarket-backend-default-rtdb.firebaseio.com",
+    "project_id": "inventmarket-backend",
+    "storage_bucket": "inventmarket-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278871927373:android:4989f9667147e12dd54a04",
+        "android_client_info": {
+          "package_name": "com.example.app_inventmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278871927373-33ve8kpej4qnbrlhpg82pq4m50p0kr8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZY_xG9E236hUyJ4O8JHUsvkpPjCCe1qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278871927373-33ve8kpej4qnbrlhpg82pq4m50p0kr8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
